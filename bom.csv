@@ -1,0 +1,14 @@
+item,quantity,unit,unit_price_usd,unit_price_egp,source,notes,line_total_usd,line_total_egp
+UNIHIKER K10 AI coding board,1,unit,28.90,1554.11,DFRobot official price; CBE rate conversion; Egyptian retailer listing exists but does not expose a public price,"Required controller; includes display, AHT20, light sensor, speaker, SD slot, buttons and ESP32-S3",28.90,1554.11
+Analog soil-moisture probe/module,1,unit,0.91,49.00,Most Electronics Egypt,External sensor required by the code on P0,0.91,49.00
+JST 3-pin 2.54 mm 30 cm cable,1,unit,0.10,5.50,Most Electronics Egypt,Connects the probe to K10 P0,0.10,5.50
+3-pin SPDT slide power switch,1,unit,0.06,3.00,Micro Ohm Egypt,Minimum power control part,0.06,3.00
+3.7 V 600 mAh LiPo battery,1,unit,1.28,69.00,Most Electronics Egypt,Battery power shown in the project assembly,1.28,69.00
+32 GB microSD card,1,unit,11.16,600.00,Micro Ohm Egypt,Stores Voice/Emoji/Face assets; 32 GB is more than enough but is the listed local size,11.16,600.00
+MicroSD card reader module,1,unit,0.74,40.00,Micro Ohm Egypt,Needed to copy repository assets to the card; omit if an existing reader is available,0.74,40.00
+M3 × 5 mm screw,1,piece,0.03,1.50,Micro Ohm Egypt,K10 mounting screw,0.03,1.50
+"M2 screw, 5 mm",4,pieces,0.03,1.50,Micro Ohm Egypt; closest listed M2 unit price,Four required by the project supply list; verify exact length at checkout,0.12,6.00
+M4 × 8 mm screw,4,pieces,0.01,0.75,Micro Ohm Egypt,Four required by the project supply list,0.04,3.00
+"Instant adhesive, 20 g",1,bottle,0.84,45.00,Micro Ohm Egypt,Small amount is used to secure sensor/switch; one bottle is the minimum purchasable unit,0.84,45.00
+Local FDM PLA+ printing of 5 STL parts,1,set,12.27,660.00,Gravity Electronic Egypt: EGP 3/g PLA+; budgeted at 220 g including supports/waste,"Housing, Cover, Plate, Clip and Button; no CAD redesign",12.27,660.00
+Custom PCB fabrication,0,board,0.00,0.00,Not required: repository contains no Gerber/KiCad PCB files; K10 is the assembled main board,Excluded to avoid funding an unnecessary board,0.00,0.00
